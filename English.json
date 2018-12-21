@@ -16,7 +16,7 @@
      "" : "Invert",
      "" : "Confirm
      "string_phone_numberr": "Mobile number",
-   "string_phone_number_tips": "The number will be used to receive a confirmation SMS when transfer“,
+   "string_phone_number_tips": "The number will be used to receive a confirmation SMS when transfer",
    "string_save" : "Save",
    "confirm_delete" : "Be sure to delete?",
    "confirm_give_up" : "Be sure to discard?",
