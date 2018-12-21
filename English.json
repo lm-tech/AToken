@@ -14,7 +14,7 @@
      "" : "Payee’s mobile phone number (Optional)",
      "" : "Empty",
      "" : "Invert",
-     "" : "Confirm
+     "" : "Confirm,
      "string_phone_numberr" : "Mobile number",
      "string_phone_number_tips" : "The number will be used to receive a confirmation SMS when transfer",
      "string_save" : "Save",
