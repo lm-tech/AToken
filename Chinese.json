@@ -1,0 +1,14 @@
+{
+"Search Placeholder" : "请输入关键词搜索",
+"Screening" : " 筛选",
+"Address edit" : "编辑",
+"None Data" : "暂无数据",
+"Delete" : "删除",
+"New Address" : "创建新地址",
+"Abandon new address" : "是否放弃地址新增",
+"Abandon modify address" : "是否放弃地址修改",
+"Deltete address" : "是否删除地址",
+"Remarks placeholder" : "请输入地址名称备注（必填）",
+"Address placeholder" : "请输入钱包地址（必填）",
+"Phone placeholder" : "请输入手机号（选填）"
+}
