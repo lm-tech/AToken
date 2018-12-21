@@ -29,5 +29,5 @@
   "string_address_blocked" : "拥堵",
   "string_coin_main" : "主流",  
   "string_coin_bifurcate" : "分叉",  
-  "string_coin_others" : "其他",  
+  "string_coin_others" : "其他"
 }
