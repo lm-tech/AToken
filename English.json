@@ -14,5 +14,20 @@
     "" : "收款人手机号（选填）",
     "" : "清空",
     "" : "反选",  
-    "" : "确认（当前工程使用"Confirm"）"
+    "" : "确认（当前工程使用"Confirm"）",
+     "string_phone_numberr": "手机号",
+  "string_phone_number_tips": "手机号可用于获取转账确认短信",
+  "string_save" : "保存",
+  "confirm_delete" : "确认删除？",  
+  "confirm_give_up" : "确认放弃？",
+  "string_delete_succeed" : "删除成功",  
+  "string_delete_failed" : "删除失败",
+  "string_edit_succeed" : "修改成功",  
+  "string_edit_failed" : "修改失败",  
+  "string_create_succeed" : "新建成功",  
+  "string_address_general" : "一般",  
+  "string_address_blocked" : "拥堵",
+  "string_coin_main" : "主流",  
+  "string_coin_bifurcate" : "分叉",  
+  "string_coin_others" : "其他"
   }
