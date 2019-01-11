@@ -30,4 +30,13 @@
   "string_coin_main" : "主流",  
   "string_coin_bifurcate" : "分叉",  
   "string_coin_others" : "其他"
+  
+  "red_envelope_to_receive" : "红包领取"
+  "get_a_red_envelope" : "恭喜您获得一个红包"
+  "please_to_receive" : "请尽快领取至个人钱包"
+  "immediately_to_receive" :  "立即领取"
+
+  "legacyAddr": "Legacy格式地址”，
+  "cashAddr":  "CashAddr格式地址”，
+  "searchToken": "搜索Token"
 }
