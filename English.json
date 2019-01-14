@@ -38,8 +38,8 @@
       "immediately_to_receive" : "Get it now"
       "current_default_red_envelope_wallet" : "(current default red pocket withdraw wallet)"
      
-      "legacyAddr" : "Legacy format address”，
-      "cashAddr" : "CashAddr format address”，
+      "legacyAddr" : "Legacy address”，
+      "cashAddr" : "CashAddr address”，
       "searchToken" : "Search Token"
   }
 
