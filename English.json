@@ -41,5 +41,12 @@
       "legacyAddr" : "Legacy address”，
       "cashAddr" : "CashAddr address”，
       "searchToken" : "Search Token"
+     
+     "string_defalut_wellet": "（Defualt Wallet to Withdraw Envelope）"
+     "string_wellet_selected_title": "Choose Wallet to Withdraw"
+     "string_red_envelope_pick": "Claim Envelope"
+     "string_red_envelope_tips": "Congrats, you win an envelope! Please withdraw to your wallet in time !"
+     "string_red_envelope_get": "Claim Now"
+     "string_search_token": "Search Contract Address"
   }
 
