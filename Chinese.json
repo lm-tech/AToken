@@ -41,10 +41,10 @@
   "cashAddr":  "CashAddr格式地址”，
   "searchToken": "搜索Token"
   
-  "": "（当前默认红包提币钱包）"
-  "": "提币钱包选择"
-  "": "红包领取"
-  "": "恭喜您获得一个红包 请尽快领取至个人钱包"
-  "": "立即领取"
-  "": "搜索合约地址"
+  "string_defalut_wellet": "（当前默认红包提币钱包）"
+  "string_wellet_selected_title": "提币钱包选择"
+  "string_red_envelope_pick": "红包领取"
+  "string_red_envelope_tips": "恭喜您获得一个红包 请尽快领取至个人钱包"
+  "string_red_envelope_get": "立即领取"
+  "string_search_token": "搜索合约地址"
 }
