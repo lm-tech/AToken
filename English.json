@@ -72,11 +72,11 @@
      "Tab_mining_earnings ":" Mining earnings"
      "Total_earnings":" Total earnings"
      
-     "give_you_one_red_package"："给您发了一个广告红包"
-     "auto_save_to_wallet"："已自动存入您的钱包"
-     "user_login"："账户登录"
-     "edit_invite_code"："请输入邀请码（选填）"
-     "user_login_btn"："登录"
-     "select_country"："选择国家"
+     "give_you_one_red_package"："send you an AD envelope."
+     "auto_save_to_wallet"："is saved to your wallet."
+     "user_login"："Sign In"
+     "edit_invite_code"："Inviting Code（Optional）"
+     "user_login_btn"："Sign In"
+     "select_country"："Select Country"
   }
 
