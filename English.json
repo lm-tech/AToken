@@ -90,5 +90,9 @@
     "mineral_evidence"："Mining Voucher"
     "still_mining_time"："Remaining Mining Time"
     "currency"："Currency"
+     
+    "atoken_mining_pool"："xxx的矿池"
+    "mining_rule"："挖矿规则"
+    "mining_rule_detail"："当您的抵押资产价格低于预处置线时需在24小时内补仓至安全线如果24小时后价格依然低于预处置线则会转移并处置抵押资产当您的抵资产价格低于预处置线时需在24小时内补仓至安全线如果24小时后价格依然低于预处置线则会转移并处置抵押资产当您的抵押资产价格低于预处置线时需在24小时内补仓至安全线如24小时后价格依然低于预处置线则会转移并处抵押资产。"
   }
 
