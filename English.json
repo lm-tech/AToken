@@ -111,5 +111,18 @@
      2、被邀请的好友，通过本图扫描二维码并成功加入AToken后，你将得到1000ATC的奖励，当前邀请上限为20人次（超过上限后将无法继续获得奖励）；
      3、每个用户只能被成功邀请一次。"
      
+     
+      "app_tab_mark":"赚币" （需要单词）
+      "time_remaining"："剩余："
+      "time_jump"："跳过" 
+      "ones_mining"："%1$s的矿池" 
+      "dig_to_earn_money"："挖矿挣钱" 
+      "new_user_red_packet"："新手红包" 
+      "ones_send_red_packet"："%1$s的红包" 
+      "invite_code_wrong_keep_going"："邀请码错误，是否继续登录" 
+      "dia_ok"："继续" 
+      "dia_cancel"："否" 
+      "this_month"："本月" 
+     
   }
 
