@@ -81,13 +81,4 @@
 
   "freeze" :  "已冻结：12 TRX | 带宽：5033"
   
-  "string_trx_know": "我知道了"
-  "string_trx_bandwidth_title": "矿工费说明"
-  "string_trx_bandwidth_meaning": "带宽说明"
-  "string_trx_bandwidth_meaning": "带宽含义："
-  "": "当用户发起一笔转账交易时，矿工费计算方法如下："
-  "string_trx_bandwidth_source": "带宽来源："
-  "string_trx_absenteeism_fee_content": "- 优先尝试消耗交易发起者的剩余带宽（Bandwidth Points） \n- 如果账户中带宽不足，则消耗交易发起者余额中的TRX，交易的字节数 * 10 sun（1TRX = 1000000 sun） 此处矿工费根据一般交易预估得出，最终实际消耗矿工费由波场网络决定，请知悉。"
-  "string_trx_bandwidth_meaning_content": "除了执行查询操作，任何交易都会消耗带宽（Bandwidth Points），带宽不足时，将会消耗TRX。"
-  "string_trx_bandwidth_source_content"  "1. 锁定TRX可以获取带宽，所有用户按锁定TRX量分配固定额度的带宽。\n2. 每个已激活的地址每天都会被分配免费额度为5000的带宽，每日持有免费带宽上限为5000。"
-}
+  }
