@@ -70,8 +70,7 @@
      "Returns_detailed ":" Detailed returns"
      "Tab_red_envelope_earnings ":" Red packet earnings"
      "Tab_mining_earnings ":" Mining earnings"
-     "Total_earnings":" Total earnings"
-     
+     "Total_earnings":" Total earnings"     
      "give_you_one_red_package"："send you an AD envelope."
      "auto_save_to_wallet"："is saved to your wallet."
      "user_login"："Sign In"
@@ -91,9 +90,9 @@
     "still_mining_time"："Remaining Mining Time"
     "currency"："Currency"
      
-    "atoken_mining_pool"："xxx的矿池"
+    "atoken_mining_pool"："%1$s的矿池"
     "mining_rule"："挖矿规则"
-    "mininging"："正在挖坑..."
+    "mininging"："正在挖矿..."
     "mining_rule_detail"："1、ATC可用于兑换挖矿凭证（简称：矿证），ATC:矿证=1:1；
     2、1份矿证=1份收益，兑换的矿证越多，获得的收益也越多（兑换的矿证不支持退还）；
     3、所有在有效时间内参与开采的用户，将根据兑换矿证数量的多少来平分整个矿池；
