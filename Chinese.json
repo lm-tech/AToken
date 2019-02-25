@@ -91,4 +91,9 @@
   "string_trx_bandwidth_meaning_content": "除了执行查询操作，任何交易都会消耗带宽（Bandwidth Points），带宽不足时，将会消耗TRX。"
   "string_trx_bandwidth_source_content"  "1. 锁定TRX可以获取带宽，所有用户按锁定TRX量分配固定额度的带宽。\n2. 每个已激活的地址每天都会被分配免费额度为5000的带宽，每日持有免费带宽上限为5000。"
 
+  CFG_ADVERT_CONFIG_IS_NULL(11015, "未获取广告位配置信息", "")
+  ALIYUN_SECURITY_CLIENT_ERROR(2002, "投篮验证异常",""),
+  ALIYUN_SMS_SEND_FAILD(2003, "验证码发送失败",""),
+  SMS_SEND_TIMES_OVER_LIMIT(2004, "验证码发送次数超过限制",""),
+  WANG_YI_SLIDE_VERIFICATION_ERROR(2005, "滑块验证异常","");
   }
