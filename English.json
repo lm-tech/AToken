@@ -160,8 +160,8 @@
      "tab_red_envelope_earnings" = "Red packet earnings";
      "tab_mining_earnings" = "Mining earnings";
      "total_earnings" = "Total earnings";
-     "red_envelope_earnings" = "红包收益(ATC)";
-     "mining_envelope_earnings" = "挖矿收益(CNY)";
+     "red_envelope_earnings" = "Red packet earning";
+     "mining_envelope_earnings" = "Mining earnings";
      "accountLogin" = "Sign In";
      "loginVerifyPlaceholder" = "请输入验证码";
      "loginInvitePlaceholder" = "Inviting Code（Optional）";
