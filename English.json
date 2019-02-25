@@ -130,5 +130,21 @@
      
       "user_ranking"："My rank" 
      
-  }
+
+     
+     (11000, "系统异常", “System exception"),
+     (11001, "参数传入有误", “Invalid parameter input"),
+     (11002, "验证码输入有误", “Invalid verification code"),
+     (11003, "邀请码输入有误", “Invalid invitation code"),
+     (11005, "授权码有误", “Invalid authorization code"),
+     (11006, "行情异常", “Quotation service error"),
+     (11007, "余额不足", “Insufficient balance"),
+     (11008, "登录已超时，请重新登录", “Login expired. Please log in again.”),
+     (11009, "红包不存在", “Red packet doesn’t exist"),
+     (11010, "红包已领取", "Red packet already claimed"),
+     (11011, "领取时间未到", “Unable to claim yet"),
+     (11012, "您已经领取过新手红包", “Beginner red packet already claimed"),
+     (11013, "未获取到矿池配置信息", “No configuration info for pools"),
+     (11014, "未获取到矿证数量配置信息", “No configuration info for the number of mining vouchers"),
+
 
