@@ -165,7 +165,7 @@
      "accountLogin" = "Sign In";
      "loginVerifyPlaceholder" = "Input verification code";
      "loginInvitePlaceholder" = "Inviting Code（Optional）";
-     "loginPrompt" = "Accunt will be created automatically if users haven't signed up.";
+     "loginPrompt" = "Account will be created automatically if users haven't signed up.";
      "escrowAccount" = "Escrow account";
      "miningChoose" = "Exchange voucher";
      "forecast" = "Expected earnings";
