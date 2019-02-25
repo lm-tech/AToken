@@ -51,6 +51,9 @@
      
      "string_omni_miner_fee_tips":"Sending USDT requires BTC as mining fee."
 
+     "red_wars":"Claim red packet"
+     "bitcoin_mining":"Mining Pool"
+     "invite":"Invitation"
      "Mine" : "Mine"
      "Red_envelope_ranking ": "Red packet ranking"
      "Mining_pool_ranking ":"Mining pool ranking"
@@ -90,40 +93,42 @@
     "still_mining_time"："Remaining Mining Time"
     "currency"："Currency"
      
-    "atoken_mining_pool"："%1$s的矿池"
-    "mining_rule"："挖矿规则"
-    "mininging"："正在挖矿..."
-    "mining_rule_detail"："1、ATC可用于兑换挖矿凭证（简称：矿证），ATC:矿证=1:1；
-    2、1份矿证=1份收益，兑换的矿证越多，获得的收益也越多（兑换的矿证不支持退还）；
-    3、所有在有效时间内参与开采的用户，将根据兑换矿证数量的多少来平分整个矿池；
-    4、每个矿池的开采重制时间是每个自然日的0点（GMT+8），矿池开采时效为24小时；
-    5、只要在挖矿有效时限内开启挖矿，都可获得完整收益；
-    6、当期矿池挖矿完毕后，系统会实时计算实际收益并自动发放至个人账户，同时将自动开启下一轮矿池。"
+    "atoken_mining_pool"："%1$s mining pool"
+    "mining_rule"："Rules"
+    "mininging"："Mining..."
+    "mining_rule_detail"："1.ATC can be used to exchange for “mining vouchers” at a ratio of 1:1. 
+    2. 1 voucher = 1 share of profit. The more vouchers you exchange, the more profit you will get. (Vouchers can’t be refunded to ATC).
+    3. All users involved in mining during valid time will equally share the entire mining bonus according to the amount of vouchers.
+    4. All pools reset at 00:00 of every natural day (GMT+8). The valid mining time of a pool is 24 hours.
+    5. Users can receive the full shares of profit as long as he starts mining during the valid time.
+    6. When the mining process is completed, the actual profit will be calculated in real time and automatically distributed to the user’s account. Meanwhile, the next round of pool will automatically become available for mining.
+"
      
      
-  "content"  : "旷工费说明",@"当用户发起一笔转账交易时，矿工费计算方法如下：\n- 优先尝试消耗交易发起者的剩余带宽（Bandwidth Points）。\n- 如果账户中带宽不足，则消耗交易发起者余额中的TRX，交易的字节数 * 10 sun（1TRX = 1000000 sun）。\n此处矿工费根据一般交易预估得出，最终实际消耗矿工费由波场网络决定，请知悉。”
+  "content"  : "About Fees",@"Fees will be calculated according to the following: \n-remaining bandwidth points. \n-remaining TRX. Fees = transaction bytes *10sun (1TRX=1000000sun). \n-Fees are estimated according to regular trasactions. Please be aware that the actual fee is determined by Tron network.”
+     
 
-  "banwith" :  "带宽含义：\n\n除了执行查询操作，任何交易都会消耗带宽（Bandwidth Points），带宽不足时，将会消耗TRX。\n\n带宽来源：\n\n1. 冻结TRX可以获取带宽，所有用户按冻结TRX量分配固定额度的带宽。\n2. 每个已激活的地址每天都会被分配免费额度为5000的带宽，每日持有免费带宽上限为5000。”
-
-  "freeze" :  "已冻结：12 TRX | 带宽：5033"
-   "invite_rule_detail"："1、点击“邀请好友”按钮后，将生成带有你邀请码的图片，你可以将此图片分享至好友或朋友圈；
-     2、被邀请的好友，通过本图扫描二维码并成功加入AToken后，你将得到1000ATC的奖励，当前邀请上限为20人次（超过上限后将无法继续获得奖励）；
-     3、每个用户只能被成功邀请一次。"
+  "banwith" :  "Bandwidth points: \n\n Except for query actions, all transaction will consume bandwidth points. If bandwidth points are insufficient, TRX will be consumed. \n\n Getting bandwidth: \n\n1. Freezing TRX. Bandwidth will be distributed according to the amount of frozen TRX. \n2. Every account will be distributed with 5000 bandwidth points daily. The maximum free bandwidth points of a day are 5000."
+     
+  "freeze" :  "Frozen：12 TRX | Bandwidth points：5033"
+   "invite_rule_detail"："1. Clicking “Invite Friends”, your invitation QR code will be generated. You can share it to your friends or on social media.
+     2. When you invite successfully, you will be rewarded with 1000ATC. The current upper limit of your invitations is 20 people (You will no longer receive rewards after inviting 20 people).
+     3. Each user can only be invited once."
      
      
-      "app_tab_mark":"赚币" （需要单词）
-      "time_remaining"："剩余："
-      "time_jump"："跳过" 
-      "ones_mining"："%1$s的矿池" 
-      "dig_to_earn_money"："挖矿挣钱" 
-      "new_user_red_packet"："新手红包" 
-      "ones_send_red_packet"："%1$s的红包" 
-      "invite_code_wrong_keep_going"："邀请码错误，是否继续登录" 
-      "dia_ok"："继续" 
-      "dia_cancel"："否" 
-      "this_month"："本月" 
+      "app_tab_mark":"Earn" （需要单词）
+      "time_remaining"："Time Remaining："
+      "time_jump"："Skip" 
+      "ones_mining"："%1$s mining pool" 
+      "dig_to_earn_money"："Earn by Mining" 
+      "new_user_red_packet"："Beginner red packet" 
+      "ones_send_red_packet"："%1$s red packet" 
+      "invite_code_wrong_keep_going"："Invalid code. Continue to log in?" 
+      "dia_ok"："Yes" 
+      "dia_cancel"："No" 
+      "this_month"："Current Month" 
      
-      "user_ranking"："我的排名" 
+      "user_ranking"："My rank" 
      
   }
 
