@@ -163,12 +163,12 @@
      "red_envelope_earnings" = "Red packet earning";
      "mining_envelope_earnings" = "Mining earnings";
      "accountLogin" = "Sign In";
-     "loginVerifyPlaceholder" = "请输入验证码";
+     "loginVerifyPlaceholder" = "Input verification code";
      "loginInvitePlaceholder" = "Inviting Code（Optional）";
-     "loginPrompt" = "未注册用户我们将为您自动创建账户";
-     "escrowAccount" = "账户托管";
+     "loginPrompt" = "Accunt will be created automatically if users haven't signed up.";
+     "escrowAccount" = "Escrow account";
      "miningChoose" = "Exchange voucher";
-     "forecast" = "预期收益";
+     "forecast" = "Expected earnings";
      
      CFG_ADVERT_CONFIG_IS_NULL(11015, "Getting ad configuration failed", "")
      ALIYUN_SECURITY_CLIENT_ERROR(2002, "Verifying shot failed",""),
