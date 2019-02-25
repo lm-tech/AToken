@@ -186,3 +186,5 @@
   "string_trx_bandwidth_meaning_content": "Except for query actions, all transaction will consume bandwidth points. If bandwidth points are insufficient, TRX will be consumed. "
   "string_trx_bandwidth_source_content"  "1. Freezing TRX. Bandwidth will be distributed according to the amount of frozen TRX. \n2. Every account will be distributed with 5000 bandwidth points daily. The maximum free bandwidth points of a day are 5000."
 
+   "tip_exchange" = "提币转账功能待开放";
+
