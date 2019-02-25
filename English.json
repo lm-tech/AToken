@@ -176,9 +176,9 @@
      SMS_SEND_TIMES_OVER_LIMIT(2004, "Sending code exceeds upper limits",""),
      WANG_YI_SLIDE_VERIFICATION_ERROR(2005, "Slide verification abnormal","");
 
-  "string_trx_know": "我知道了"
+  "string_trx_know": "Got it"
   "string_trx_bandwidth_title": "About Fees"
-  "string_trx_bandwidth_meaning": "带宽说明"
+  "string_trx_bandwidth_meaning": "Bandwidth Points"
   "string_trx_bandwidth_meaning": "Bandwidth points："
   "": "Fees will be calculated according to the following："
   "string_trx_bandwidth_source": "Getting bandwidth："
