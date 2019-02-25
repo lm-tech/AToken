@@ -180,7 +180,7 @@
   "string_trx_bandwidth_title": "About Fees"
   "string_trx_bandwidth_meaning": "带宽说明"
   "string_trx_bandwidth_meaning": "Bandwidth points："
-  "": "Fees will be calculated according to the following:："
+  "": "Fees will be calculated according to the following："
   "string_trx_bandwidth_source": "Getting bandwidth："
   "string_trx_absenteeism_fee_content": "-remaining bandwidth points. \n-remaining TRX. Fees = transaction bytes *10sun (1TRX=1000000sun). Fees are estimated according to regular trasactions. Please be aware that the actual fee is determined by Tron network."
   "string_trx_bandwidth_meaning_content": "Except for query actions, all transaction will consume bandwidth points. If bandwidth points are insufficient, TRX will be consumed. "
